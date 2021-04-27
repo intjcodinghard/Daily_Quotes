@@ -1,0 +1,208 @@
+<resources>
+    <string name="app_name">Daily Quotes</string>
+    <string name="Quote1">“The unexamined life is not worth living.”
+-Socrates</string>
+    <string name="Quote2">“Be alone, that is the secret of invention. Be alone, that is when ideas are born.”
+-Nikola Tesla</string>
+    <string name="Quote3">Inside every cynical person, there is a disappointed idealist.
+-George Carlin</string>
+    <string name="Quote4">“Some people would rather die than think. In fact, they do.”
+-Bertrand Russell</string>
+    <string name="Quote5">“Whenever I think of something but can’t think of what it was I was thinking of, I can’t stop thinking until I think I’m thinking of it again. I think I think too much.”
+-Cris Jami</string>
+    <string name="Quote6">“The only wisdom is in knowing you know nothing.”
+-Socrates</string>
+    <string name="Quote7">“Any intelligent fool can make things bigger and more complex… It takes a touch of genius and a lot of courage to move in the opposite direction.”
+-Albert Einstein</string>
+    <string name="Quote8">“Wise men talk because they have something to say. Fools talk because they have to say something.”
+-Plato</string>
+    <string name="Quote9">“It’s the weak mind that cannot accept change.”
+-Martin Luther King Jr.</string>
+    <string name="Quote10">“Loneliness is the fate of all outstanding minds.”
+– Arthur Schopenhauer</string>
+    <string name="Quote11">“Against logic there is no armor like ignorance.”
+-Laurence J. Peter</string>
+    <string name="Quote12">“If you are lonely when you’re alone, you are in bad company.”
+-Jean Paul Sartre</string>
+    <string name="Quote13">“Everyone is entitled to his own opinion, but not his own facts.”
+-Daniel Patrick Moynihan</string>
+    <string name="Quote14">“People who think they know everything are a great annoyance to those of us who do.”
+-Isaac Asimov</string>
+    <string name="Quote15">“Strange times are these in which we live when old and young are taught falsehoods in school. And the person that dares to tell the truth is called at once a lunatic and fool.”
+– Plato</string>
+    <string name="Quote16">“And those who were seen dancing were thought to be insane by those who could not hear the music.”
+– Friedrich Nietzsche</string>
+    <string name="Quote17">“Facts do not cease to exist because they are ignored.”
+– Aldous Huxley</string>
+    <string name="Quote18">“Loneliness does not come from having no people around you, but from being unable to communicate the things that seem important to you.”
+– Carl Jung</string>
+    <string name="Quote19">“There is nothing to be learned from history anymore. We’re in science fiction now.”
+-Allen Ginsberg</string>
+    <string name="Quote20">“Learning never exhausts the mind.”
+– Leonardo da Vinci</string>
+    <string name="Quote21">
+“It is no measure of health to be well adjusted to a profoundly sick society.”
+-Jiddu Krishnamurti</string>
+    <string name="Quote22">“It is usually futile to try to talk facts and analysis to people who are enjoying a sense of moral superiority in their ignorance.”
+-Thomas Sowell</string>
+    <string name="Quote23">“The cleverest of all, in my opinion, is the man who calls himself a fool at least once a month.”
+– Fyodor Dostoevsky</string>
+    <string name="Quote24">“All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self – evident.”
+– Arthur Schopenhauer</string>
+    <string name="Quote25">“Silence is the true friend that never betrays.”
+-Confucius</string>
+    <string name="Quote26">“People don’t want to hear the truth because they don’t want their illusions destroyed.”
+– Friedrich Nietzsche</string>
+    <string name="Quote27">“We will either find a way or make one.”
+-Hannibal Barca</string>
+    <string name="Quote28">“I have always imagined that Paradise will be a kind of library.”
+-Jorge Luis Borges</string>
+    <string name="Quote29">“It is the mark of an educated mind to be able to entertain a thought without accepting it.”
+-Aristotle</string>
+    <string name="Quote30">“Nothing strengthens authority so much as silence.”
+– Leonardo da Vinci</string>
+    <string name="Quote31">“Thoughts without content are empty, intuitions without concepts are blind.”
+– Immanuel Kant</string>
+    <string name="Quote32">“Thinking is difficult, that is why most people judge.”
+– Carl Jung</string>
+    <string name="Quote33">“My goal is simple. It is a complete understanding of the universe.”
+-Stephen Hawking</string>
+    <string name="Quote34">“Most people are other people. Their thoughts are someone else’s opinion, their lives a mimicry, their passions a quotation.”
+-Oscar Wilde</string>
+    <string name="Quote35">“There is nothing like staying at home, for real comfort.”
+– Jane Austen</string>
+    <string name="Quote36">“It is not enough to have a good mind; the main thing is to use it well.”
+-Rene Descartes</string>
+    <string name="Quote37">“Religion is the masterpiece of the art of animal training, for it trains people as to how they shall think.”
+– Arthur Schopenhauer</string>
+    <string name="Quote38">“You have to learn the rules of the game, and then you have to play better than everyone else.”
+-Albert Einstein</string>
+    <string name="Quote39">“Silence is one of the hardest arguments to refute.”
+-Josh Billings</string>
+    <string name="Quote40">“There are no limits, you are only limited by however far you want to be limited.”
+– Chuck Schuldiner</string>
+    <string name="Quote41">“Life is like a play in the theater: it does not matter how long it lasts, but how well it was played.”
+– Lucius Annaeus Seneca</string>
+    <string name="Quote42">“It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.”
+-Mark Twain</string>
+    <string name="Quote43">“If you can’t explain it simply , you don’t understand it well enough.”
+-Albert Einstein</string>
+    <string name="Quote44">“There’s zero correlation between being the best talker and having the best ideas.”
+-Susan Cain</string>
+    <string name="Quote45">“Better a witty fool than a foolish wit.”
+– William Shakespeare</string>
+    <string name="Quote46">“Have the courage to use your own intelligence.”
+– Immanuel Kant</string>
+    <string name="Quote47">“There are three classes of people: those who see, those who see when they are shown, those who do not see.”
+– Leonardo da Vinci</string>
+    <string name="Quote48">“Everything that irritates us about others can lead us to an understanding of ourselves.”
+– Carl Jung</string>
+    <string name="Quote49">“It is not the brains that matter most, but that which guides them, character, the heart, generous qualities, progressive ideas.”
+– Fyodor Dostoevsky</string>
+    <string name="Quote50">“Books are the quietest and most constant of friends; they are the most accessible and wisest of counsellors, and the most patient of teachers.”
+-Charles W. Eliot</string>
+    <string name="Quote51">“If you are going through hell, keep going.”
+– Winston Churchill</string>
+    <string name="Quote52">“To be nobody but yourself in a world that’s doing its best to make you somebody else, is to fight the hardest battle you are ever going to fight. Never stop fighting.”
+-E. E. Cummings</string>
+    <string name="Quote53">“I don’t believe in psychology. I believe in good moves.”
+– Bobby Fischer</string>
+    <string name="Quote54">“The power of accurate observation is commonly called cynicism by those who do not have it.”
+-George Bernard Shaw</string>
+    <string name="Quote55">“The beginning is the most important part of the work.”
+– Plato</string>
+    <string name="Quote56">“You have enemies? Good. That means you have stood up for something, sometime in your life.”
+– Winston Churchill</string>
+    <string name="Quote57">“I have seen the future, and it doesn’t work.”
+-Robert Fulford</string>
+    <string name="Quote58">“Life is a tragedy for those who feel, and a comedy for those who think.”
+-La Bruyere</string>
+    <string name="Quote59">“Consistency is contrary to nature, contrary to life. The only completely consistent people are dead.”
+– Aldous Huxley</string>
+    <string name="Quote60">“Genius is a talent. It cannot be taught, neither learnt.”
+– Immanuel Kant</string>
+    <string name="Quote61">“The only good is knowledge and the only evil is ignorance.”
+-Socrates</string>
+    <string name="Quote62">“The main similarity of a genius and madman is that both live in a world different of all others.”
+– Arthur Schopenhauer</string>
+    <string name="Quote63">“The noblest pleasure is the joy of understanding.”
+– Leonardo da Vinci</string>
+    <string name="Quote64">“Maybe this world is another planet’s hell.”
+– Aldous Huxley</string>
+    <string name="Quote65">“The scariest moment is always just before you start.”
+– Stephen King</string>
+    <string name="Quote66">“Talent hits a target no one else can hit. Genius hits a target no one else can see.”
+– Arthur Schopenhauer</string>
+    <string name="Quote67">“No great genius has ever existed without some touch of madness”
+– Aristotle</string>
+    <string name="Quote68">“It isn’t what we say or think that defines us, but what we do.”
+– Jane Austen</string>
+    <string name="Quote69">“I make friends with very few people but I highly value them.”
+– Karl Marx</string>
+    <string name="Quote70">“Classes will dull your mind, destroy the potential for authentic creativity.”
+– John Forbes Nash</string>
+    <string name="Quote71">“Have more than you show, speak less than you know.”
+– William Shakespeare</string>
+    <string name="Quote72">“Never discourage anyone… who continually makes progress, no matter how slow.”
+– Plato</string>
+    <string name="Quote73">“I like the moment when I break a man’s ego.”
+– Bobby Fischer</string>
+    <string name="Quote74">“Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on Earth.”
+– Fyodor Dostoevsky</string>
+    <string name="Quote75">“Science is organized knowledge. Wisdom is organized life.”
+– Immanuel Kant</string>
+    <string name="Quote76">“Be not afraid of greatness. Some are born great, some achieve greatness, and some have greatness thrust upon them.”
+– William Shakespeare</string>
+    <string name="Quote77">“The world is indeed comic, but the joke is on mankind.”
+– Howard Phillips Lovecraft</string>
+    <string name="Quote78">“There are no facts, only interpretations.”
+– Friedrich Nietzsche</string>
+    <string name="Quote79">“I am not what happened to me. I am what I choose to become.”
+– Carl Jung</string>
+    <string name="Quote80">“The only person with whom you have to compare yourself is you in the past.”
+– Sigmund Freud</string>
+    <string name="Quote81">“Return to a simpler life, and you will see that behind the expensive cars, the fashionable clothes, the empty celebrities, the fancy houses and the thick layers of make – up life has real meaning. Behind all the lies there is a deep well of wisdom that we can all drink from, and grow wiser, healthier and happier.”
+– Varg Vikernes</string>
+    <string name="Quote82">“I awoke, only to find that the rest of the world is still asleep.”
+– Leonardo da Vinci</string>
+    <string name="Quote83">“Without judgement what would we do? We would be forced to look at ourselves emerged in the lost time assuming what may be. Without judgement perception would increase a million times.”
+– Chuck Schuldiner</string>
+    <string name="Quote84">“Success is the ability to go from one failure to another with no loss of enthusiasm.”
+– Winston Churchill</string>
+    <string name="Quote85">“Who looks outside, dreams; who looks inside, awakens.”
+– Carl Jung</string>
+    <string name="Quote86">“You will never reach your destination if you stop and throw stones at every dog that barks.”
+– Winston Churchill</string>
+    <string name="Quote87">“It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.”
+– Lucius Annaeus Seneca</string>
+    <string name="Quote88">“Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours.”
+– John Locke</string>
+    <string name="Quote89">“Keep on beginning and failing. Each time you fail, start all over again, and you will grow stronger until you have accomplished a purpose – not the one you began with perhaps, but one you will be glad to remember.”
+– Anne Sullivan</string>
+    <string name="Quote90">“Education is the most powerful weapon we can use to change the world.”
+– Nelson Mandela</string>
+    <string name="Quote91">“I can calculate the motion of heavenly bodies, but not the madness of people.”
+    – Isaac Newton</string>
+    <string name="Quote92">“Quiet people have the loudest minds.”
+– Stephen King</string>
+    <string name="Quote93">“The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.”
+– Howard Phillips Lovecraft</string>
+    <string name="Quote94">“The general population doesn’t know what’s happening, and it doesn’t even know that it doesn’t know.”
+– Noam Chomsky</string>
+    <string name="Quote95">“Learn how to see. Realize that everything connects to everything else.”
+– Leonardo da Vinci</string>
+    <string name="Quote96">“From error to error, one discovers the entire truth.”
+– Sigmund Freud</string>
+    <string name="Quote97">“He that uses his words loosely and unsteadily will either not be minded or not understood.”
+– John Locke</string>
+    <string name="Quote98">“Most people are not even aware of their need to conform. They live under the illusion that they follow their own ideas and inclinations, that they are individualists, that they have arrived at their opinions as a result of their own thinking – and that it just happens that their ideas are the same as those of the majority.”
+– Erich Fromm</string>
+    <string name="Quote99">“There’s no reality except the one contained within us. That’s why so many people live an unreal life. They take images outside them for reality and never allow the world within them to assert itself.”
+– Hermann Hesse</string>
+    <string name="Quote100">“When you know the truth it will drive you insane.”
+– Aldous Huxley</string>
+
+
+
+
+</resources>
